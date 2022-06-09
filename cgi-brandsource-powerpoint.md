@@ -206,3 +206,6 @@ HEX #1E5D37
 - Talk track, write it out, practice multiple times reading script and without
 - Record and listen
 - Practice to others to get feedback
+- More focused on flow and presentation than content
+- Text to visuals balance
+- Easy to follow
